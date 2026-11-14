@@ -1,0 +1,5 @@
+Projeto de Gerenciamento de Configuração
+
+Aluno: Robson da Silva Tavares
+
+Atividade prática realizada utilizando GitHub para controle de versão e gerenciamento de configuração.
